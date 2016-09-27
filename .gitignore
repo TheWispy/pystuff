@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+x = 4
+for i in range(x):
+  print(x)
